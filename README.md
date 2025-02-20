@@ -1,6 +1,6 @@
 # Hi there, I'm Jackson Storm! 👋
 
-![Banner Image](https://drive.google.com/file/d/1va20S-5j_u2oKcJyrKmmWc2yDijqkmro/view?usp=sharing)
+![Banner Image](https://github.com/JacksonStorm99/JacksonStorm99/blob/main/Make%20your%20README.png?raw=true)
 
 ## About Me 🚀
 
