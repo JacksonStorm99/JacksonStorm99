@@ -1,6 +1,6 @@
 # Hi there, I'm Jackson Storm! 👋
 
-![Banner Image](file:///C:/Users/ultim/Downloads/Glow.png)
+![Banner Image](https://drive.google.com/file/d/1va20S-5j_u2oKcJyrKmmWc2yDijqkmro/view?usp=sharing)
 
 ## About Me 🚀
 
