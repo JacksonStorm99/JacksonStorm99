@@ -1,6 +1,6 @@
 # Hi there, I'm Jackson Storm! 👋
 
-![Banner Image](Make your README.png)
+![Banner Image](https://github.com/JacksonStorm99/JacksonStorm99/blob/main/Make%20your%20README.png?raw=true)
 
 ## About Me 🚀
 
