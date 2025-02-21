@@ -4,10 +4,12 @@
 
 ## About Me 🚀
 
+- I am a __Beginner__ at Programming and a __Beginner__ in Game Development.
+
 I'm a passionate about Game Development and Programming . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: How in the world to use GITHUB
-- 🔭 Working on: A Game
+- 🌱 Currently learning: How in the world to use GITHUB 
+- 🔭 Working on: A Triple AAA Unreal Engine Game
 - 🌍 Languages: Python, HTML, CSS, Javascript
 
 ## My Skills 🧠
